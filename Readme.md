@@ -6,7 +6,6 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white)](https://amitanand-git.github.io/My-Portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dev-amit-anand/)
-[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-Profile-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/27697359)
 
 </div>
 
@@ -59,13 +58,11 @@ Business goals → Strategy → User experience → Development → Launch → G
 
 ## 🧭 My 5D Approach
 
-```mermaid
-graph LR
-    A[Discuss] --> B[Design]
-    B --> C[Develop]
-    C --> D[Deploy]
-    D --> E[Dominate]
-```
+<div align="center">
+
+**01 · Discuss** &nbsp; ➜ &nbsp; **02 · Design** &nbsp; ➜ &nbsp; **03 · Develop** &nbsp; ➜ &nbsp; **04 · Deploy** &nbsp; ➜ &nbsp; **05 · Dominate**
+
+</div>
 
 1. **Discuss** — Understand the business, audience, challenges, goals, and opportunities.
 2. **Design** — Turn strategy into a purposeful structure, user experience, and visual direction.
@@ -169,8 +166,10 @@ Handled website and ecommerce development from planning and implementation throu
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=AmitAnand-git&show_icons=true&hide_border=true&bg_color=0d1117&title_color=7c3aed&icon_color=8b5cf6&text_color=c9d1d9" alt="Amit Anand's GitHub statistics">
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmitAnand-git&layout=compact&hide_border=true&bg_color=0d1117&title_color=7c3aed&text_color=c9d1d9" alt="Most used languages">
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AmitAnand-git&theme=github_dark" alt="Amit Anand's GitHub statistics">
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AmitAnand-git&theme=github_dark" alt="Most used languages by repository">
+
+<img width="85%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AmitAnand-git&theme=github_dark" alt="Amit Anand's GitHub contribution summary">
 
 <img width="70%" src="https://streak-stats.demolab.com?user=AmitAnand-git&hide_border=true&background=0D1117&ring=7C3AED&fire=8B5CF6&currStreakLabel=7C3AED&sideLabels=C9D1D9&dates=8B949E&currStreakNum=F0F6FC&sideNums=F0F6FC" alt="GitHub contribution streak">
 
@@ -194,8 +193,7 @@ I’m open to conversations about:
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/View%20Portfolio-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white)](https://amitanand-git.github.io/My-Portfolio/)
-[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/amit-anand20)
-[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/27697359)
+[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dev-amit-anand/)
 
 <br>
 
