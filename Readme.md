@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&duration=3200&pause=900&color=7C3AED&center=true&vCenter=true&width=760&lines=Senior+Manager+%E2%80%94+Digital+%26+Growth+Operations;Web+Developer+%7C+Shopify+%7C+eCommerce;Project+Manager+%7C+Digital+Operator+%7C+Growth+Consultant;Turning+business+goals+into+working+digital+systems)](https://git.io/typing-svg)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white)](https://amitanand-git.github.io/My-Portfolio/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white)](https://amit-anand-one.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dev-amit-anand/)
 
 </div>
